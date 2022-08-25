@@ -1,0 +1,25 @@
+body {
+    background: #dfdfdf;
+
+}
+
+p.{
+    color: #222;
+}
+
+.foto-principal {
+    width:300px; /* para o tamanho da foto */
+    border: 2px solid white;
+    /*border uma unica vez significa para os tres border width tamanho da borda , border style serve para a borda estilo , border color */
+    border-radius: 50%; /* para deixar ela redonda */
+
+    margin: 30px 30px 30px 30px ;
+    /* margin top 30px 
+    margin left 30px 
+    margin botton 30px
+    margin right 30px 
+    
+
+    
+}
+
